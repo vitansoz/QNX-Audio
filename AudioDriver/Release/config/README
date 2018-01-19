@@ -1,0 +1,7 @@
+
+acoustic.conf is used for Bluetooth to noise-reduction.
+audioman_default.conf used for audioman to routing,ducking for audio streams.
+file path:  
+         /etc/system/audio/config/acoustic.conf
+		 /etc/system/audio/config/audioman_default.conf
+

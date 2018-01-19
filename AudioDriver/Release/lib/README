@@ -1,0 +1,6 @@
+put this .so in the path:
+
+/lib/dll/deva-ctrl-mcasp-j6_dummy_mic.so
+/lib/dll/deva-ctrl-mcasp-j6_dummy_nav.so
+
+use io-audio to load this dll for audio subsystem.
